@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - authmanager?serverTimezone=UTC@localhost" uuid="3ea62413-d96f-471c-a3d8-d0b62e54c89b">
+    <database-info product="MySQL" version="5.7.10-log" jdbc-version="4.1" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-6.0.5 ( Revision: 6e477e32dff18fb4dc102e53f5a68037a9f8762e )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="authmanager"/>
+    <table name="auth_function" schema="" catalog="authmanager" type="TABLE"/>
+    <table name="auth_role" schema="" catalog="authmanager" type="TABLE"/>
+    <table name="auth_role_function" schema="" catalog="authmanager" type="TABLE"/>
+    <table name="auth_user" schema="" catalog="authmanager" type="TABLE"/>
+    <table name="auth_user_role" schema="" catalog="authmanager" type="TABLE"/>
+  </data-source>
+</component>
